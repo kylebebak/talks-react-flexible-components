@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+/website/node_modules
+
+## docs
+/website/i18n
+/website/build
+
+# production
+/dist
+
+# jest
+/coverage
+
+# misc
+.DS_Store
+.env
