@@ -31,7 +31,8 @@ Parecido a render props, pero con nombres más explícitos.
 Cuando diseñas una librería, o cualquier API, trata de hacer lo siguiente:
 
 >Make the easy things easy, and the hard things possible.
->_Larry Wall, creador de Perl._
+>
+___Larry Wall, creador de Perl.___
 
 [React Dropzone Uploader](https://github.com/fortana-co/react-dropzone-uploader) es una librería que escribimos en [Fortana](https://fortana.co/) y que usamos para nuestros file uploaders en varios proyectos.
 
